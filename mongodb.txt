@@ -1,0 +1,76 @@
+//HOSPITAL DETAILS
+{
+	"_id" : ObjectId("5f77663dbf3de463fd8a3061"),
+	"hId" : "h4",
+	"name" : "kamineni",
+	"address" : "lbnagar"
+}
+{
+	"_id" : ObjectId("5f77663dbf3de463fd8a3062"),
+	"hId" : "h3",
+	"name" : "omni",
+	"address" : "kothapet"
+}
+{
+	"_id" : ObjectId("5f776688bf3de463fd8a3063"),
+	"hId" : "h1",
+	"name" : "apollo",
+	"address" : "jubilee hills"
+}
+{
+	"_id" : ObjectId("5f776688bf3de463fd8a3064"),
+	"hId" : "h2",
+	"name" : "hedge",
+	"address" : "chandanagar"
+}
+//VENTILATOR DETAILS
+{
+	"_id" : ObjectId("5f77548b50cf2cc7e6bc96aa"),
+	"name" : "hedge",
+	"ventId" : "H2V2",
+	"status" : "not available"
+}
+{
+	"_id" : ObjectId("5f7754b750cf2cc7e6bc96ab"),
+	"name" : "apollo",
+	"ventId" : "H1V3",
+	"status" : "not available"
+}
+{
+	"_id" : ObjectId("5f7754b750cf2cc7e6bc96ac"),
+	"name" : "omni",
+	"ventId" : "H3V1",
+	"status" : "available"
+}
+{
+	"_id" : ObjectId("5f7754e350cf2cc7e6bc96ad"),
+	"name" : "kamineni",
+	"ventId" : "H4V1",
+	"status" : "not available"
+}
+{
+	"_id" : ObjectId("5f7754e350cf2cc7e6bc96ae"),
+	"name" : "omni",
+	"ventId" : "H3V2",
+	"status" : "not available"
+}
+{
+	"_id" : ObjectId("5f77552750cf2cc7e6bc96af"),
+	"name" : "kamineni",
+	"ventId" : "H4V2",
+	"status" : "available"
+}
+{
+	"_id" : ObjectId("5f77552750cf2cc7e6bc96b0"),
+	"name" : "omni",
+	"ventId" : "H3V3",
+	"status" : "available"
+}
+{
+	"_id" : ObjectId("5f776745bf3de463fd8a3065"),
+	"name" : "apollo",
+	"ventId" : "H1V1",
+	"status" : "not available"
+}
+
+
